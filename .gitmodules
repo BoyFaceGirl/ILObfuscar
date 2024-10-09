@@ -1,0 +1,3 @@
+[submodule "obfuscar"]
+	path = obfuscar
+	url = https://github.com/obfuscar/obfuscar.git
